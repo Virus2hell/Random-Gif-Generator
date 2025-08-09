@@ -8,10 +8,12 @@ You can either generate completely random GIFs or search for GIFs based on a cus
 ## 📸 Preview
 
 ### 🔹 Random GIF
-![Random GIF Preview](./images/random-gif.png)
+![Random GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/bcc162eb4ab93c099da3c10165f8b19378bfc690/img1.png)
 
 ### 🔹 Tagged GIF
-![Tagged GIF Preview](./images/tagged-gif.png)
+![Tagged GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/bcc162eb4ab93c099da3c10165f8b19378bfc690/img2.png)
+
+![Tagged GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/bcc162eb4ab93c099da3c10165f8b19378bfc690/img3.png)
 
 ---
 
