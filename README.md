@@ -56,3 +56,35 @@ my-app/
 ├── README.md
 └── tailwind.config.js
 ```
+
+---
+
+## ⚙️ Setup & Installation
+1. **Clone the repository**
+```bash
+git clone 
+cd my-app
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+3. **Get your Giphy API Key**
+- Create a free account on [**Giphy Developers**](https://developers.giphy.com/)
+- Create an **app** and copy your **API key**
+
+4. **Create .env file**
+```env
+REACT_APP_GIPHY_API_KEY = your_api_key_here
+```
+
+5. **Run the app**
+```bash
+npm start
+```
+
+
+
+
