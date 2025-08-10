@@ -14,7 +14,7 @@ You can either generate completely random GIFs or search for GIFs based on a cus
 ![Tagged GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/bcc162eb4ab93c099da3c10165f8b19378bfc690/img3.png)
 
 ### 🔹 Download GIF
-![Download GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/bcc162eb4ab93c099da3c10165f8b19378bfc690/img4.png)
+![Download GIF Preview](https://github.com/Virus2hell/Random-Gif-Generator/blob/1fb0a1d860b7fc6cbbb365a1abeace9b5055005f/img4.png)
 
 ---
 
